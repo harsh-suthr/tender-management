@@ -3,7 +3,7 @@
  *
  * Handles live financial calculations, dynamic form responsiveness,
  * and native WordPress Media Library integration for attachments.
- *
+ *admin
  * @package    Tender_PO_Management
  * @subpackage Tender_PO_Management/admin/js
  * @version    1.0.0
